@@ -1,0 +1,15 @@
+.app {
+  margin: 20px 0;
+}
+body{
+  background-color: #dedede;
+}
+.heading {
+  text-align: center;
+}
+
+.typo{
+  background-color: #cfe8fc;
+  height: 100%;
+  padding: 0 20px;
+}
